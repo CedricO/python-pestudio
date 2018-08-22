@@ -1,0 +1,8 @@
+bcolors
+pefile
+beautifulsoup4
+lxml
+entropy
+requests
+numpy
+
